@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.bg{
+  height:100vh;
+  width:100%;
+  position:absolute;
+  z-index:-1;
+  opacity:.7;
+  background: url('sky.jpg') no-repeat center/cover;
+}
